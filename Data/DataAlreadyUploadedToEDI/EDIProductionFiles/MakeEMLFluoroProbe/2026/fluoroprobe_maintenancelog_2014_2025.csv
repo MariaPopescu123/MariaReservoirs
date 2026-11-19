@@ -1,0 +1,33 @@
+Reservoir, Site, Depth, DataStream, TIMESTAMP_start, TIMESTAMP_end, start_parameter, end_parameter , flag, update_value, notes
+FCR,50, NA,fluoroprobe, 2017-01-01 00:00:00 EDT, 2017-12-31 23:59:59 EDT, GreenAlgae_ugL, RFU_470nm,1, NA, bbe moldaenke posthoc recalibration
+FCR,45, NA,fluoroprobe, 2017-01-01 00:00:00 EDT, 2017-12-31 23:59:59 EDT, GreenAlgae_ugL, RFU_470nm,1, NA, bbe moldaenke posthoc recalibration
+FCR,30, NA,fluoroprobe, 2017-01-01 00:00:00 EDT, 2017-12-31 23:59:59 EDT, GreenAlgae_ugL, RFU_470nm,1, NA, bbe moldaenke posthoc recalibration
+FCR,20, NA,fluoroprobe, 2017-01-01 00:00:00 EDT, 2017-12-31 23:59:59 EDT, GreenAlgae_ugL, RFU_470nm,1, NA, bbe moldaenke posthoc recalibration
+FCR,10, NA,fluoroprobe, 2017-01-01 00:00:00 EDT, 2017-12-31 23:59:59 EDT, GreenAlgae_ugL, RFU_470nm,1, NA, bbe moldaenke posthoc recalibration
+BVR,50, NA,fluoroprobe, 2017-01-01 00:00:00 EDT, 2017-12-31 11:59:59 EDT, GreenAlgae_ugL, RFU_470nm,1, NA, bbe moldaenke posthoc recalibration
+CCR,50, NA,fluoroprobe, 2017-01-01 00:00:00 EDT, 2017-12-31 23:59:59 EDT, GreenAlgae_ugL, RFU_470nm,1, NA, bbe moldaenke posthoc recalibration
+SHR,50, NA,fluoroprobe, 2017-01-01 00:00:00 EDT, 2017-12-31 23:59:59 EDT, GreenAlgae_ugL, RFU_470nm,1, NA, bbe moldaenke posthoc recalibration
+GWR,50, NA,fluoroprobe, 2017-01-01 00:00:00 EDT, 2017-12-31 23:59:59 EDT, GreenAlgae_ugL, RFU_470nm,1, NA, bbe moldaenke posthoc recalibration
+FCR,50, NA,fluoroprobe, 2017-01-01 00:00:00 EDT, 2018-12-31 23:59:59 EDT,Temp_C,Temp_C,2, NA,bad temperature data
+FCR,45, NA,fluoroprobe, 2017-01-01 00:00:00 EDT, 2018-12-31 23:59:59 EDT,Temp_C,Temp_C,2, NA,bad temperature data
+FCR,30, NA,fluoroprobe, 2017-01-01 00:00:00 EDT, 2018-12-31 23:59:59 EDT,Temp_C,Temp_C,2, NA,bad temperature data
+FCR,20, NA,fluoroprobe, 2017-01-01 00:00:00 EDT, 2018-12-31 23:59:59 EDT,Temp_C,Temp_C,2, NA,bad temperature data
+FCR,10, NA,fluoroprobe, 2017-01-01 00:00:00 EDT, 2018-12-31 23:59:59 EDT,Temp_C,Temp_C,2, NA,bad temperature data
+BVR,50, NA,fluoroprobe, 2017-01-01 00:00:00 EDT, 2018-12-31 23:59:59 EDT,Temp_C,Temp_C,2, NA,bad temperature data
+CCR,50, NA,fluoroprobe, 2017-01-01 00:00:00 EDT, 2018-12-31 23:59:59 EDT,Temp_C,Temp_C,2, NA,bad temperature data
+SHR,50, NA,fluoroprobe, 2017-01-01 00:00:00 EDT, 2018-12-31 23:59:59 EDT,Temp_C,Temp_C,2, NA,bad temperature data
+GWR,50, NA,fluoroprobe, 2017-01-01 00:00:00 EDT, 2018-12-31 23:59:59 EDT,Temp_C,Temp_C,2, NA,bad temperature data
+BVR,50, NA,fluoroprobe, 2019-09-04 00:00:00 EDT, 2019-09-04 23:59:59 EDT,Temp_C,Temp_C,2, NA,bad temperature data
+FCR,50, NA,fluoroprobe, 2019-09-11 00:00:00 EDT, 2019-09-11 23:59:59 EDT,Temp_C,Temp_C,2, NA,bad temperature data
+FCR,50, NA,fluoroprobe, 2019-09-02 00:00:00 EDT, 2019-09-02 23:59:59 EDT,Temp_C,Temp_C,2, NA,bad temperature data
+FCR,50, NA,fluoroprobe, 2020-08-24 00:00:00 EDT, 2020-08-24 23:59:59 EDT,Temp_C,Temp_C,2, NA,bad temperature data
+FCR,50, NA,fluoroprobe, 2014-05-01 00:00:00 EDT, 2023-12-31 23:59:59 EDT,Transmission_perc,Transmission_perc,4, NA,bad transmission sensor calibration
+FCR,45, NA,fluoroprobe, 2014-05-01 00:00:00 EDT, 2023-12-31 23:59:59 EDT,Transmission_perc,Transmission_perc,4, NA,bad transmission sensor calibration
+FCR,40, NA,fluoroprobe, 2014-05-01 00:00:00 EDT, 2023-12-31 23:59:59 EDT,Transmission_perc,Transmission_perc,4, NA,bad transmission sensor calibration
+FCR,30, NA,fluoroprobe, 2014-05-01 00:00:00 EDT, 2023-12-31 23:59:59 EDT,Transmission_perc,Transmission_perc,4, NA,bad transmission sensor calibration
+FCR,20, NA,fluoroprobe, 2014-05-01 00:00:00 EDT, 2023-12-31 23:59:59 EDT,Transmission_perc,Transmission_perc,4, NA,bad transmission sensor calibration
+FCR,10, NA,fluoroprobe, 2014-05-01 00:00:00 EDT, 2023-12-31 23:59:59 EDT,Transmission_perc,Transmission_perc,4, NA,bad transmission sensor calibration
+BVR,50, NA,fluoroprobe, 2014-05-01 00:00:00 EDT, 2023-12-31 11:59:59 EDT,Transmission_perc,Transmission_perc,4, NA,bad transmission sensor calibration
+CCR,50, NA,fluoroprobe, 2014-05-01 00:00:00 EDT, 2023-12-31 23:59:59 EDT,Transmission_perc,Transmission_perc,4, NA,bad transmission sensor calibration
+SHR,50, NA,fluoroprobe, 2014-05-01 00:00:00 EDT, 2023-12-31 23:59:59 EDT,Transmission_perc,Transmission_perc,4, NA,bad transmission sensor calibration
+GWR,50, NA,fluoroprobe, 2014-05-01 00:00:00 EDT, 2023-12-31 23:59:59 EDT,Transmission_perc,Transmission_perc,4, NA,bad transmission sensor calibration

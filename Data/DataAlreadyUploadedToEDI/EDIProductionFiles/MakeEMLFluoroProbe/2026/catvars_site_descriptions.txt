@@ -1,0 +1,6 @@
+attributeName	code	definition
+Reservoir	BVR	Beaverdam Reservoir
+Reservoir	CCR	Carvins Cove Reservoir
+Reservoir	FCR	Falling Creek Reservoir
+Reservoir	GWR	Gatewood Reservoir
+Reservoir	SHR	Spring Hollow Reservoir

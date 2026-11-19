@@ -1,0 +1,34 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+Reservoir	Three-letter code corresponding to sampled reservoir	categorical			NA	value is missing
+Site	Sampling site within each reservoir; see site_descriptions.csv provided in this data package for further information regarding sampling sites	numeric	dimensionless		NA	value is missing
+DateTime	Date and time of sampling. All observations were set to be in the Eastern Daylight Time Zone, even if they were collected in Eastern Standard Time	Date		YYYY-MM-DD hh:mm:ss	NA	value is missing
+CastID	unique identifier for each cast	numeric	dimensionless		NA	value is missing
+Depth_m	Water depth where the sample was collected or sensor reading was measured	numeric	meter		NA	value is missing
+GreenAlgae_ugL	Green algae concentration	numeric	microgramsPerLiter		NA	value is missing
+Bluegreens_ugL	Bluegreen algae (cyanobacteria) concentration	numeric	microgramsPerLiter		NA	value is missing
+BrownAlgae_ugL	Brown algae concentration	numeric	microgramsPerLiter		NA	value is missing
+MixedAlgae_ugL	Mixed algae (sometimes referred to as cryptophytes) concentration	numeric	microgramsPerLiter		NA	value is missing
+TotalConc_ugL	Total phytoplankton concentration	numeric	microgramsPerLiter		NA	value is missing
+YellowSubstances_ugL	Yellow substances (an offset meant to correct for humic compounds) concentration	numeric	microgramsPerLiter		NA	value is missing
+Temp_C	Water temperature in Celsius	numeric	celsius		NA	value is missing
+Transmission_perc	Percent transmission of the water at 700 nm; 100% is pure water and 0% is black water	numeric	percent		NA	value is missing
+RFU_370nm	Relative fluorescence units of excitation in response to light wavelength of 370 nm	numeric	relativeFluorescenceUnits		NA	value is missing
+RFU_470nm	Relative fluorescence units of excitation in response to light wavelength of 470 nm	numeric	relativeFluorescenceUnits		NA	value is missing
+RFU_525nm	Relative fluorescence units of excitation in response to light wavelength of 525 nm	numeric	relativeFluorescenceUnits		NA	value is missing
+RFU_570nm	Relative fluorescence units of excitation in response to light wavelength of 570 nm	numeric	relativeFluorescenceUnits		NA	value is missing
+RFU_590nm	Relative fluorescence units of excitation in response to light wavelength of 590 nm	numeric	relativeFluorescenceUnits		NA	value is missing
+RFU_610nm	Relative fluorescence units of excitation in response to light wavelength of 610 nm	numeric	relativeFluorescenceUnits		NA	value is missing
+Flag_GreenAlgae_ugL	Data flag for green algae	categorical	dimensionless		NA	value is missing
+Flag_Bluegreens_ugL	Data flag for bluegreen algae	categorical	dimensionless		NA	value is missing
+Flag_BrownAlgae_ugL	Data flag for brown algae	categorical	dimensionless		NA	value is missing
+Flag_MixedAlgae_ugL	Data flag for mixed algae	categorical	dimensionless		NA	value is missing
+Flag_YellowSubstances_ugL	Data flag for yellow substances	categorical	dimensionless		NA	value is missing
+Flag_TotalConc_ugL	Data flag for total phytoplankton	categorical	dimensionless		NA	value is missing
+Flag_Temp_C	Data flag for water temperature	categorical	dimensionless		NA	value is missing
+Flag_Transmission_perc	Data flag for transmission	categorical	dimensionless		NA	value is missing
+Flag_RFU_525nm	Data flag for fluorescence at 525 nm	categorical	dimensionless		NA	value is missing
+Flag_RFU_570nm	Data flag for fluorescence at 570 nm	categorical	dimensionless		NA	value is missing
+Flag_RFU_610nm	Data flag for fluorescence at 610 nm	categorical	dimensionless		NA	value is missing
+Flag_RFU_370nm	Data flag for fluorescence at 370 nm	categorical	dimensionless		NA	value is missing
+Flag_RFU_590nm	Data flag for fluorescence at 590 nm	categorical	dimensionless		NA	value is missing
+Flag_RFU_470nm	Data flag for fluorescence at 470 nm	categorical	dimensionless		NA	value is missing

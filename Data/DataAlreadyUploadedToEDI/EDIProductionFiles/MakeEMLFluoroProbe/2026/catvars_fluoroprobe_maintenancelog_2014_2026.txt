@@ -1,0 +1,41 @@
+attributeName	code	definition
+Reservoir	BVR	Beaverdam Reservoir
+Reservoir	CCR	Carvins Cove Reservoir
+Reservoir	FCR	Falling Creek Reservoir
+Reservoir	GWR	Gatewood Reservoir
+Reservoir	SHR	Spring Hollow Reservoir
+start_parameter	GreenAlgae_ugL	Green algae concentration
+start_parameter	Bluegreens_ugL	Bluegreen algae (cyanobacteria) concentration
+start_parameter	BrownAlgae_ugL	Brown algae concentration
+start_parameter	MixedAlgae_ugL	Mixed algae (sometimes referred to as cryptophytes) concentration
+start_parameter	YellowSubstances_ugL	Yellow substances (an offset meant to correct for humic compounds) concentration
+start_parameter	Temp_C	Water temperature in Celsius
+start_parameter	Transmission_perc	"Percent transmission of the water at 700 nm; 100% is pure water and 0% is ""black water"""
+start_parameter	RFU_370nm	Relative fluorescence units of excitation in response to light wavelength of 370 nm
+start_parameter	RFU_470nm	Relative fluorescence units of excitation in response to light wavelength of 470 nm
+start_parameter	RFU_525nm	Relative fluorescence units of excitation in response to light wavelength of 525 nm
+start_parameter	RFU_570nm	Relative fluorescence units of excitation in response to light wavelength of 570 nm
+start_parameter	RFU_590nm	Relative fluorescence units of excitation in response to light wavelength of 590 nm
+start_parameter	RFU_610nm	Relative fluorescence units of excitation in response to light wavelength of 610 nm
+end_parameter	GreenAlgae_ugL	Green algae concentration
+end_parameter	Bluegreens_ugL	Bluegreen algae (cyanobacteria) concentration
+end_parameter	BrownAlgae_ugL	Brown algae concentration
+end_parameter	MixedAlgae_ugL	Mixed algae (sometimes referred to as cryptophytes) concentration
+end_parameter	YellowSubstances_ugL	Yellow substances (an offset meant to correct for humic compounds) concentration
+end_parameter	Temp_C	Water temperature in Celsius
+end_parameter	Transmission_perc	"Percent transmission of the water at 700 nm; 100% is pure water and 0% is ""black water"""
+end_parameter	RFU_370nm	Relative fluorescence units of excitation in response to light wavelength of 370 nm
+end_parameter	RFU_470nm	Relative fluorescence units of excitation in response to light wavelength of 470 nm
+end_parameter	RFU_525nm	Relative fluorescence units of excitation in response to light wavelength of 525 nm
+end_parameter	RFU_570nm	Relative fluorescence units of excitation in response to light wavelength of 570 nm
+end_parameter	RFU_590nm	Relative fluorescence units of excitation in response to light wavelength of 590 nm
+end_parameter	RFU_610nm	Relative fluorescence units of excitation in response to light wavelength of 610 nm
+flag	0	no flag
+flag	1	data re-calibrated post-collection
+flag	2	instrument malfunction
+flag	3	negative transmission value
+flag	4	data suspect due to poor calibration
+flag	5	negative RFU value
+
+
+

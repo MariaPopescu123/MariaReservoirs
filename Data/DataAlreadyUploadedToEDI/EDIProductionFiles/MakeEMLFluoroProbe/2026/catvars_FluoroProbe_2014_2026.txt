@@ -1,0 +1,82 @@
+attributeName	code	definition
+Reservoir	BVR	Beaverdam Reservoir
+Reservoir	CCR	Carvins Cove Reservoir
+Reservoir	FCR	Falling Creek Reservoir
+Reservoir	GWR	Gatewood Reservoir
+Reservoir	SHR	Spring Hollow Reservoir
+Flag_TotalConc_ugL	0	no flag
+Flag_TotalConc_ugL	1	data re-calibrated post-collection
+Flag_TotalConc_ugL	2	instrument malfunction
+Flag_TotalConc_ugL	3	negative transmission value
+Flag_TotalConc_ugL	4	data suspect due to poor calibration
+Flag_GreenAlgae_ugL	0	no flag
+Flag_GreenAlgae_ugL	1	data re-calibrated post-collection
+Flag_GreenAlgae_ugL	2	instrument malfunction
+Flag_GreenAlgae_ugL	3	negative transmission value
+Flag_GreenAlgae_ugL	4	data suspect due to poor calibration
+Flag_Bluegreens_ugL	0	no flag
+Flag_Bluegreens_ugL	1	data re-calibrated post-collection
+Flag_Bluegreens_ugL	2	instrument malfunction
+Flag_Bluegreens_ugL	3	negative transmission value
+Flag_Bluegreens_ugL	4	data suspect due to poor calibration
+Flag_BrownAlgae_ugL	0	no flag
+Flag_BrownAlgae_ugL	1	data re-calibrated post-collection
+Flag_BrownAlgae_ugL	2	instrument malfunction
+Flag_BrownAlgae_ugL	3	negative transmission value
+Flag_BrownAlgae_ugL	4	data suspect due to poor calibration
+Flag_MixedAlgae_ugL	0	no flag
+Flag_MixedAlgae_ugL	1	data re-calibrated post-collection
+Flag_MixedAlgae_ugL	2	instrument malfunction
+Flag_MixedAlgae_ugL	3	negative transmission value
+Flag_MixedAlgae_ugL	4	data suspect due to poor calibration
+Flag_YellowSubstances_ugL	0	no flag
+Flag_YellowSubstances_ugL	1	data re-calibrated post-collection
+Flag_YellowSubstances_ugL	2	instrument malfunction
+Flag_YellowSubstances_ugL	3	negative transmission value
+Flag_YellowSubstances_ugL	4	data suspect due to poor calibration
+Flag_Temp_C	0	no flag
+Flag_Temp_C	1	data re-calibrated post-collection
+Flag_Temp_C	2	instrument malfunction
+Flag_Temp_C	3	negative transmission value
+Flag_Temp_C	4	data suspect due to poor calibration
+Flag_Transmission_perc	0	no flag
+Flag_Transmission_perc	1	data re-calibrated post-collection
+Flag_Transmission_perc	2	instrument malfunction
+Flag_Transmission_perc	3	negative transmission value
+Flag_Transmission_perc	4	data suspect due to poor calibration
+Flag_RFU_525nm	0	no flag
+Flag_RFU_525nm	1	data re-calibrated post-collection
+Flag_RFU_525nm	2	instrument malfunction
+Flag_RFU_525nm	3	negative transmission value
+Flag_RFU_525nm	4	data suspect due to poor calibration
+Flag_RFU_525nm	5	negative RFU value
+Flag_RFU_570nm	0	no flag
+Flag_RFU_570nm	1	data re-calibrated post-collection
+Flag_RFU_570nm	2	instrument malfunction
+Flag_RFU_570nm	3	negative transmission value
+Flag_RFU_570nm	4	data suspect due to poor calibration
+Flag_RFU_570nm	5	negative RFU value
+Flag_RFU_610nm	0	no flag
+Flag_RFU_610nm	1	data re-calibrated post-collection
+Flag_RFU_610nm	2	instrument malfunction
+Flag_RFU_610nm	3	negative transmission value
+Flag_RFU_610nm	4	data suspect due to poor calibration
+Flag_RFU_610nm	5	negative RFU value
+Flag_RFU_370nm	0	no flag
+Flag_RFU_370nm	1	data re-calibrated post-collection
+Flag_RFU_370nm	2	instrument malfunction
+Flag_RFU_370nm	3	negative transmission value
+Flag_RFU_370nm	4	data suspect due to poor calibration
+Flag_RFU_370nm	5	negative RFU value
+Flag_RFU_590nm	0	no flag
+Flag_RFU_590nm	1	data re-calibrated post-collection
+Flag_RFU_590nm	2	instrument malfunction
+Flag_RFU_590nm	3	negative transmission value
+Flag_RFU_590nm	4	data suspect due to poor calibration
+Flag_RFU_590nm	5	negative RFU value
+Flag_RFU_470nm	0	no flag
+Flag_RFU_470nm	1	data re-calibrated post-collection
+Flag_RFU_470nm	2	instrument malfunction
+Flag_RFU_470nm	3	negative transmission value
+Flag_RFU_470nm	4	data suspect due to poor calibration
+Flag_RFU_470nm	5	negative RFU value
